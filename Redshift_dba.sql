@@ -1,3 +1,4 @@
+-- See also : https://github.com/awslabs/amazon-redshift-utils/tree/master/src/AdminScripts
 -- currently running queries
 select pid, user_name, starttime, query
 from stv_recents
